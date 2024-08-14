@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=🖐️WELCOME&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&rotate=13&animation=fadeIn&reversal=false&fontAlign=75&fontAlignY=25&desc=%20This%20is%20Taekyung's%20Github&desczSize=24&FontSize=50&descAlign=81&descAlignY=43)
 
 <h1 align="center">📄 About Me</h1> <br>
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요? 저는 도전과 끈기를 바탕으로 성장해온 신입 AI 개발자입니다. 조선대학교 AI 헬스케어 연구 센터에서 14개월 동안 학부연구생으로 활동하며, 인공지능 기초부터 심화까지의 기술을 습득하고 복잡한 의료 데이터를 분석하는 과정에서 책임감과 신뢰성의 중요성을 배웠습니다. 특히, XAI 기반 심장질환 예측 프로젝트에서는 데이터 전처리와 모델 성능 개선을 통해 끊임없는 도전과 학습의 자세를 배우며 데이터의 투명성과 신뢰성을 높이는 방법을 터득했습니다.
@@ -46,4 +46,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=tklim99&show_icons=true&theme=dracula" alt="tklim99" /></p>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer)
